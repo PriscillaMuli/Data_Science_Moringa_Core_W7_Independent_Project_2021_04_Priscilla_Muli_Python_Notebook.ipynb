@@ -37,3 +37,7 @@ Sci-Kit Library
 **Motivation**
 
 Multiple Linear, Quantile, Lasso, Ridge and Elastic Net Regressions were all used on the case study to observe which of the resultant models was ideal for predicting house prices with the given dataset.
+
+**Contact Details**
+
+https://github.com/PriscillaMuli
