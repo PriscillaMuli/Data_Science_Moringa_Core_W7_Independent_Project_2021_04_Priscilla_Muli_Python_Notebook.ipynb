@@ -1,8 +1,3 @@
-# Data_Science_Moringa_Core_W7_Independent_Project_2021_04_Priscilla_Muli_Python_Notebook
-
-
-**Data Science Core Independent Project Week 7**
-
 **Regression Analysis of Housing Dataset**
 
 **Description**
